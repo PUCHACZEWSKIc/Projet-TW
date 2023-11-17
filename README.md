@@ -7,5 +7,6 @@ Le projet est divisé en 5 sous parties : -La page de garde/sommaire, redirigean
                                          -Une page expliquant les enjeux du sujet.
                                          -Une page expliquant les outils qui seront utilisés
                                          -Une page contenant les sources. 
-
+                                         
+Pour l'instant le projet est à un stade très primitif, et la majorité des éléments peuveznt encore changer aux cours de réflexions ou de modifications futures. 
 /!\ Pas fini, à compléter/corriger au fur et à mesure de l'avancement du projet. /!\
