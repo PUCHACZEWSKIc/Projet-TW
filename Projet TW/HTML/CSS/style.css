@@ -1,0 +1,31 @@
+summary {
+  display: block;
+  cursor: pointer;
+  outline: 0;
+}
+
+body {
+  background-color: #191c1e;
+  color: white;
+  font-size: 1.6rem;
+  font-family: arial;
+  margin: 0;
+  padding: 3rem;
+}
+
+figcaption {
+    font-size : 1rem;
+    font-style : italic;
+}
+
+.tree-nav__item {
+  display: block;
+  white-space: nowrap;
+  color: #ccc;
+  position: relative;
+}
+
+.tree-nav__item .tree-nav__item {
+  margin-left: 2.4rem;
+}
+
