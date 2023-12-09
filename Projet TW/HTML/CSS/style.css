@@ -1,7 +1,5 @@
 summary {
-  display: block;
   cursor: pointer;
-  outline: 0;
 }
 
 body {
@@ -13,16 +11,19 @@ body {
   padding: 3rem;
 }
 
+img {
+margin :10px;
+}
+
 figcaption {
+    left-margin : 15px;
     font-size : 1rem;
     font-style : italic;
 }
 
-.tree-nav__item {
-  display: block;
-  white-space: nowrap;
-  color: #ccc;
-  position: relative;
+a {
+  color : white;
+  text-decoration: none;
 }
 
 .tree-nav__item .tree-nav__item {
