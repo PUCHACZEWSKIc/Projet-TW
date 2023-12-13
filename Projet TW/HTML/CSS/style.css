@@ -1,5 +1,12 @@
-summary {
-  cursor: pointer;
+
+h1 {
+    font-family : serif, Didot;
+    color : #D5AAE9;
+}
+
+h2 {
+    font-family : serif, Didot;
+        color : #E7FFAC;
 }
 
 body {
@@ -11,22 +18,38 @@ body {
   padding: 3rem;
 }
 
+p {
+    text-indent : 2%;
+}
+
 img {
-margin :10px;
+    margin : 45px;
 }
 
 figcaption {
-    left-margin : 15px;
+    margin : 10px;
+    up-margin : 20px;
     font-size : 1rem;
     font-style : italic;
 }
+
+
 
 a {
   color : white;
   text-decoration: none;
 }
+a:hover
+{
+    color : white;
+    text-decoration: underline;
+}
+
+
 
 .tree-nav__item .tree-nav__item {
   margin-left: 2.4rem;
 }
-
+summary {
+  cursor: pointer;
+}
